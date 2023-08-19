@@ -52,8 +52,9 @@ Or You can add me on Telegram, WhatsUp +7 (926)450 01 14 📱
   
 </div>
 <!-- Set of tools and skills on my side (learning them throug work with them) -->
-  
-<h3 align="left">Technologies I am familiar with:</h3>
+
+ ## My stack ##
+<h3 id="stack" align="left">Technologies I am familiar with:</h3>
 <p align="center">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="devicon" height="50" width="50" />
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="devicon" height="50" width="50" />
@@ -65,19 +66,7 @@ Or You can add me on Telegram, WhatsUp +7 (926)450 01 14 📱
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="devicon" height="50" width="50" />
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="devicon" height="50" width="50" />
 <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="devicon" height="50" width="50" />
-
-
-<div id="stack" align="center" markdown="1">
-  
-  ## My stack ##
-  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="Node.js" alt="Node.js" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express.js" alt="Express.js" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="GIT" alt="GIT" width="40" height="40"/>
-  
-</div>
+</p>
 
 <!-- <div id="about me" align="center" markdown="1">
   
