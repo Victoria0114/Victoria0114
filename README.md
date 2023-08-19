@@ -11,7 +11,7 @@
   benefit, that it can work everywhere, so my company reduce the cost explosionproof screen (without
   Windows OS) and get additional profit! -->
 
-- `English` B2;
+- `English` B1;
 
 - `Russian` Native;
 
