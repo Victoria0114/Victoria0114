@@ -5,11 +5,15 @@
 Set of tools and skills on my side (learning them throug work with them)
 * HTML5
 * CSS3
-* JavaScript 
+* JavaScript
+* React
+* Node.js
+* Express.js
+* MongoDB
 * GitHub 
 * Webpack 
 * Figma 
-* React 
+
 
 You can contact me:
 My Email - v9264500114@gmail.com
