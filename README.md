@@ -1,12 +1,8 @@
-### Hi there 👋
-
-## I'am a junior frontend developer
-
 <h1 align="center">Nice to meet You, I'm <a href="https://github.com/Victoria0114/" target="_blank">Victoria</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I'am a junior frontend developer from Russia 🇷🇺</h3>
-<!-- <p align="center"><a align="center" href="https://github.com/Victoria0114" target="_blank"><img src="https://github.com/Foxylabstory/Foxylabstory/blob/output/github-contribution-grid-snake.gif"/></a></p>
-<!-- Instructions to get a snake: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 --> -->
+<!-- <p align="center"><a align="center" href="https://github.com/Victoria0114" target="_blank"><img src=""/></a></p> --> 
+<!-- Instructions to get a snake: https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 --> 
 
 - `who am i` a junior frontend developer;
 
