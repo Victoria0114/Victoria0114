@@ -16,7 +16,8 @@
 - `Russian` Native;
 
 - `keen on` Going to traveling.
-
+  
+## To contact me ##
 <h3 align="left">Connect with me:</h3>
 
 <p align="center">
@@ -27,10 +28,10 @@
 		<img align="center" src="./images/contacts/instagram.svg" alt="instagram" height="40" width="40" />
 	</a> -->
 	<a href="https://t.me/victoriausataya" target="_blank">
-		<img align="center" src="./images/contacts/telegram.svg" alt="telegram" height="40" width="40" />
+		<img align="center" src="https://img.shields.io/badge/@victoriausataya-blue?style=social&logo=telegram&logoColor=white" alt="telegram" height="40" width="40" />
 	</a>
 	<a href="mailto:v9264500114@gmail.com" target="_blank">
-		<img align="center" src="./images/contacts/email.svg" alt="email" height="40" width="40" />
+		<img align="center" src="https://img.shields.io/badge/v9264500114@gmail.com-white?style=social&logo=gmail&logoColor=red" alt="email" height="40" width="40" />
   </a>
 </p>
 
@@ -40,7 +41,7 @@ Or You can add me on Telegram, WhatsUp +7 (926)450 01 14 📱
 
 <div id="header" align="center" markdown="1">
 
-  ## To contact me ##
+ 
   <div id="badges">
     <a href="https://t.me/victoriausataya" target="_blank">
       <img src="https://img.shields.io/badge/@victoriausataya-blue?style=social&logo=telegram&logoColor=white" alt="Telegram Badge"/>
@@ -53,7 +54,7 @@ Or You can add me on Telegram, WhatsUp +7 (926)450 01 14 📱
 </div>
 <!-- Set of tools and skills on my side (learning them throug work with them) -->
 
- ## My stack ##
+## My stack ##
 <h3 id="stack" align="left">Technologies I am familiar with:</h3>
 <p align="center">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="devicon" height="50" width="50" />
