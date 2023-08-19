@@ -35,9 +35,6 @@
   </a>
 </p>
 
-You can contact me:
-My Email - v9264500114@gmail.com
-Or You can add me on Telegram, WhatsUp +7 (926)450 01 14 📱
 
 <div id="header" align="center" markdown="1">
 
