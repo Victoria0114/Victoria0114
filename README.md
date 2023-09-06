@@ -38,10 +38,9 @@
 
 <div id="header" align="center" markdown="1">
 
- 
   <div id="badges">
     <a href="https://t.me/victoriausataya" target="_blank">
-      <img src="https://img.shields.io/badge/@victoriausataya-blue?style=social&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+      <img src="https://pngset.com/images/telegram-new-logo-text-symbol-graphics-art-transparent-png-1597903.png" alt="Telegram Badge"/>
     </a>
     <a href="mailto:v9264500114@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/v9264500114@gmail.com-white?style=social&logo=gmail&logoColor=red" alt="Gmail Badge"/>
