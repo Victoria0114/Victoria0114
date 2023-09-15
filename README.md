@@ -19,7 +19,7 @@
   
 ## To contact me ##
 <h3 align="left">Connect with me:</h3>
-
+<!--
 <p align="center">
 <!-- 	<a href="https://www.linkedin.com/in//" target="_blank"">
 		<img align="center" src="./images/contacts/linkedin.svg" alt="linkedin" height="40" width="40" />
@@ -34,7 +34,7 @@
 		<img align="center" src="https://img.shields.io/badge/v9264500114@gmail.com-white?style=social&logo=gmail&logoColor=red" alt="email" height="40" width="40" />
   </a>
 </p>
-
+-->
 
 <div id="header" align="center" markdown="1">
 
