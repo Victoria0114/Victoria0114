@@ -19,23 +19,6 @@
   
 ## To contact me ##
 <h3 align="left">Connect with me:</h3>
-<!--
-<p align="center">
-	<a href="https://www.linkedin.com/in//" target="_blank"">
-		<img align="center" src="./images/contacts/linkedin.svg" alt="linkedin" height="40" width="40" />
-	</a>
-	<a href="https://www.instagram.com/victoriabogomyakova/" target="_blank"">
-		<img align="center" src="./images/contacts/instagram.svg" alt="instagram" height="40" width="40" />
-	</a> -->
-	<a href="https://t.me/victoriausataya" target="_blank">
-		<img align="center" src="https://img.shields.io/badge/@victoriausataya-blue?style=social&logo=telegram&logoColor=white" alt="telegram" height="40" width="40" />
-	</a>
-	<a href="mailto:v9264500114@gmail.com" target="_blank">
-		<img align="center" src="https://img.shields.io/badge/v9264500114@gmail.com-white?style=social&logo=gmail&logoColor=red" alt="email" height="40" width="40" />
-  </a>
-</p>
--->
-
 <div id="header" align="center" markdown="1">
 
   <div id="badges">
@@ -91,4 +74,20 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<!--
+<p align="center">
+	<a href="https://www.linkedin.com/in//" target="_blank"">
+		<img align="center" src="./images/contacts/linkedin.svg" alt="linkedin" height="40" width="40" />
+	</a>
+	<a href="https://www.instagram.com/victoriabogomyakova/" target="_blank"">
+		<img align="center" src="./images/contacts/instagram.svg" alt="instagram" height="40" width="40" />
+	</a> 
+	<a href="https://t.me/victoriausataya" target="_blank">
+		<img align="center" src="https://img.shields.io/badge/@victoriausataya-blue?style=social&logo=telegram&logoColor=white" alt="telegram" height="40" width="40" />
+	</a>
+	<a href="mailto:v9264500114@gmail.com" target="_blank">
+		<img align="center" src="https://img.shields.io/badge/v9264500114@gmail.com-white?style=social&logo=gmail&logoColor=red" alt="email" height="40" width="40" />
+  </a>
+</p>
+-->
 -->
